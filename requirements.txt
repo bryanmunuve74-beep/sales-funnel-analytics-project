@@ -3,4 +3,6 @@ pandas
 plotly
 python-dateutil
 pytz
+matplotlib
+
 
