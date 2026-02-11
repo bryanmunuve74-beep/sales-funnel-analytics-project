@@ -53,7 +53,7 @@ st.markdown("""
 # -----------------------------
 # CSV Path / Upload Option
 # -----------------------------
-CSV_PATH = (r"D:\New folder (3)\sales_funnel_dataset.csv")  # Update this path to your CSV file
+CSV_PATH = ("sales_funnel_dataset.csv")  # Update this path to your CSV file
 
 # =============================================================
 # DATA LOADING AND PREPARATION
