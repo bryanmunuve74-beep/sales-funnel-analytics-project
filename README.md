@@ -69,5 +69,62 @@ Detects where customers leave the purchase process and quantifies lost revenue o
 ### 5. Sales Performance Monitoring
 
 * Sales representative performance comparison
-* Deal success rate (Won
+* Deal success rate (Won vs Lost)
+* Order completion patterns
 
+### 6. Acquisition Channel Analysis
+
+Measures effectiveness of:
+
+* Organic traffic
+* Paid ads
+* Referrals
+* Direct traffic
+
+---
+
+## 🧰 Technology Stack
+
+* **Python**
+* **Streamlit** – web app framework
+* **Pandas** – data processing
+* **Plotly** – interactive visualizations
+* **NumPy** – analytics calculations
+
+---
+
+## 🚀 Running the Project Locally
+
+```bash
+git clone https://github.com/YOUR-USERNAME/sales-funnel-analytics-project.git
+cd sales-funnel-analytics-project
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
+
+## 💼 Use Case
+
+This project represents a prototype analytics service that businesses can use to monitor customer behavior and improve revenue performance.
+
+Applicable to:
+
+* E-commerce stores
+* Online service businesses
+* SaaS platforms
+* Sales teams
+* Marketing agencies
+
+---
+
+## 👤 Author
+
+**Bryan Munuve**
+Data Analytics & Business Intelligence
+
+---
+
+## 📄 License
+
+MIT License
